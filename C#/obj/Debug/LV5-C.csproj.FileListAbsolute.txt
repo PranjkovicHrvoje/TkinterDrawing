@@ -1,0 +1,24 @@
+C:\Users\student\Documents\LV5-C\bin\Debug\LV5-C.exe.config
+C:\Users\student\Documents\LV5-C\bin\Debug\LV5-C.exe
+C:\Users\student\Documents\LV5-C\bin\Debug\LV5-C.pdb
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5-C.csproj.AssemblyReference.cache
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5_C.Form1.resources
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5_C.Properties.Resources.resources
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5-C.csproj.GenerateResource.cache
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5-C.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5-C.exe
+C:\Users\student\Documents\LV5-C\obj\Debug\LV5-C.pdb
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\bin\Debug\LV5-C.exe.config
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\bin\Debug\LV5-C.exe.manifest
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\bin\Debug\LV5-C.application
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\bin\Debug\LV5-C.exe
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\bin\Debug\LV5-C.pdb
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.csproj.AssemblyReference.cache
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5_C.Form1.resources
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5_C.Properties.Resources.resources
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.csproj.GenerateResource.cache
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.csproj.CoreCompileInputs.cache
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.exe.manifest
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.application
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.exe
+D:\backup\FERIT\Diplomski\2. semestar\Objektno programiranje\Laboratorijske vježbe\LV5\LV5-C\obj\Debug\LV5-C.pdb
